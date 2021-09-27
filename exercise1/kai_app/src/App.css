@@ -1,0 +1,115 @@
+html{
+  background-color: #e9eaee; 
+}
+.HeaderHS{
+  display: flex;
+  flex-direction: row;
+  background-color: #08194d;
+  color: white;  
+  justify-content: space-around;
+  align-items: center;
+  width: 90%;
+  font-weight: 500;
+  height: 50px;
+}
+#TilaaButton{
+  background-color: #fffdff;
+  font-weight: 300;
+  color: #7c7e83; 
+  padding: 10px;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+.HeaderHSBackGround{
+  background-color: #08194d;
+  display: flex;
+}
+.HeaderHSRight{
+  display: flex;
+  width: 15%;
+  justify-content: space-around;
+  align-items: center;
+}
+#HSName{
+  font-size: 25px;
+  font-weight: 800;
+}
+.NotificBar{
+  background-color: #5e9da7;
+  color: white;
+  padding: 10px;
+  margin-top: 10px;
+  width: 80%;
+  margin-bottom: 10px;
+  margin-left: 3%;
+}
+#HSNotAnalys{
+  font-size: 20px;
+  font-weight:600;
+}
+#Advert{
+  background-color: #46b9e7;
+  padding: 10px;
+}
+.mainNews{
+  background-color: white;
+  float: left;
+  width: 60%;
+  margin-left: 3%;
+  border-top: 1px solid black;
+}
+.sideBarNews{
+  background-color: white;
+  float: right;
+  width: 20%;
+  margin-right: 16%;
+
+}
+h1{
+  margin-left: 1%;
+}
+h2{
+  border-bottom: 1px solid black;
+}
+h3{
+  margin-left: 1%;
+  color: #1d507c;
+  border-right: 1px solid black;
+  float: left;
+  width: 30%;
+}
+h4{
+  margin-left: 1%;
+  color: #a05c61;
+}
+.clickBait{
+  float: right;
+  width: 60%;
+  align-items: center;
+  font-size: larger;
+  font-weight: 700;
+}
+
+#sideNum{
+  font-weight: 900;
+  font-size: 40px;
+  color: #46b9e7;
+  align-items: center;
+}
+#sideTopic{
+  font-weight: 600;
+}
+#sideNews{
+  font-weight: 400;
+
+}
+.sideCont{
+  display: flex;
+  margin: auto;
+  align-items: center;
+  flex-wrap: wrap;
+}
+img{
+  width: 1000px;
+  margin-left: 1%;
+}
